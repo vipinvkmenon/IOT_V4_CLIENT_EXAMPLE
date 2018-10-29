@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "A simple client to send data to SAP IOT 4.0 API",
+  "main": "IOT_REST.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vipin Menon",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
